@@ -1,0 +1,25 @@
+config:
+  rpc_url: "<RPC_URL>"
+  chain_id: "11155111"
+  contract_address: "0x0ec6d8a992B599A6413bd8f4241dE22a9070EFf6"
+  stake_abi: '[{
+      "inputs": [],
+      "name": "stake",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }]'
+  withdraw_abi: '[{
+      "inputs": [],
+      "name": "withdrawAll",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }]'
+  claim_abi: '[{
+      "inputs": [],
+      "name": "claimReward",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }]'

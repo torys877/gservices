@@ -43,8 +43,8 @@ https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 1. Clone the repository or download the source code.
 
 ```bash
-git clone <repository-url>
-cd staketool
+git clone git@github.com:torys877/gservices.git
+cd gservices/staketool
 ``` 
 
 2. Install dependencies.

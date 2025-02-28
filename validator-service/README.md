@@ -218,6 +218,10 @@ These metrics can be scraped by Prometheus and visualized using tools like Grafa
 
 1. Ensure Go is installed on your system.
 2. Clone the repository.
+```bash
+   git clone git@github.com:torys877/gservices.git
+   cd gservices/validator-service
+``` 
 3. Navigate to the project directory.
 
 4. Run the service:
